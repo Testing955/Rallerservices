@@ -77,7 +77,8 @@ public void nextbutton()
 {
 btnnext.click();
 }
-public String getLastAddedUserEmail() {
+public String getLastAddedUserEmail() 
+{
     return lastAddedUserEmail.getText();
 }
 public void updaterole()
